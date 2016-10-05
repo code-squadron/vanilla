@@ -60,7 +60,8 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "VanillaTests\\": "tests"
+            "VanillaTests\\": "tests",
+            "VanillaTests\\Fixtures\\": "tests\\fixtures\\src"
         }
     }
 }
